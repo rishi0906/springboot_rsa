@@ -1,0 +1,4 @@
+com\healthcheck\rsa_aa_dcd\controller\HealthCheckStatusController.class
+com\healthcheck\rsa_aa_dcd\RsaAaDcdApplication.class
+com\healthcheck\rsa_aa_dcd\ServletInitializer.class
+dto\HealthCheckDto.class
